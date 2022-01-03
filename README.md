@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning Bootcamp Course from University of Adelaide
 - :camera: I love photography
+
+[![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bajraroshan)](https://github.com/bajraroshan/github-readme-stats)
 <!--
 **bajraroshan/bajraroshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
