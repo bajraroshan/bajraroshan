@@ -1,5 +1,5 @@
 ### Hi there, I'm Roshan - aka [bajraroshan][website] 👋 
-[![Website](https://img.shields.io/website?label=bajraroshan.github.io/&style=for-the-badge&url=https%3A%2F%2Fbajraroshan.github.io/)](https://bajraroshan.github.io/)
+[![Website](https://img.shields.io/website?label=bajraroshan.github.io&style=for-the-badge&url=https%3A%2F%2Fbajraroshan.github.io/)](https://bajraroshan.github.io/)
 
 - 🌱 I’m currently learning Bootcamp Course from University of Adelaide
 - :camera: I love photography
